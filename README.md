@@ -18,3 +18,23 @@ https://www.kaggle.com/code/martinezsanchez/electric-cars-prices
 I have learnt to edit notebooks: add references, titles, table of contents ...
 
 First commit: 2022-11-13
+
+## 02 - **Eurovision Song Contest Winners 1956 - 2022**
+https://www.kaggle.com/code/martinezsanchez/eurovision-song-contest-winners-1956-2022?scriptVersionId=114159694
+
+- Importing data
+- Data Visualization 
+- Beginners
+
+I share my experience with Python
+
+Versions:
+
+- First commit: 2022-12-10
+
+- Version 2: 17/12/2022
+
+    - Ortographic corrections
+    - Correcting solution 4: .max -> .min
+    - Adding 1969 summarize YouTube video
+    - Linking notebook to GitHub repository
