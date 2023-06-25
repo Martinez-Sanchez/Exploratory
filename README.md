@@ -38,3 +38,20 @@ Versions:
     - Correcting solution 4: .max -> .min
     - Adding 1969 summarize YouTube video
     - Linking notebook to GitHub repository
+
+## 03 - **European Energy Consumption Data**
+https://www.kaggle.com/code/martinezsanchez/european-energy-consumption-data
+
+- Beginners
+- Learning
+- Pandas
+- Importing data
+- Data manipulation
+- Data Visualization 
+
+
+Developing a simple notebook for working with Pandas, it has some exercises with solutions.
+
+Versions:
+
+- First commit: 2023-06-25
